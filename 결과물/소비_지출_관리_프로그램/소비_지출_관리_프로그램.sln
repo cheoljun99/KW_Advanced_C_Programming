@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "소비_지출_관리_프로그램", "소비_지출_관리_프로그램\소비_지출_관리_프로그램.vcxproj", "{376807A0-861A-4DD1-A65F-D0EC26E603DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{376807A0-861A-4DD1-A65F-D0EC26E603DB}.Debug|x64.ActiveCfg = Debug|x64
+		{376807A0-861A-4DD1-A65F-D0EC26E603DB}.Debug|x64.Build.0 = Debug|x64
+		{376807A0-861A-4DD1-A65F-D0EC26E603DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{376807A0-861A-4DD1-A65F-D0EC26E603DB}.Debug|x86.Build.0 = Debug|Win32
+		{376807A0-861A-4DD1-A65F-D0EC26E603DB}.Release|x64.ActiveCfg = Release|x64
+		{376807A0-861A-4DD1-A65F-D0EC26E603DB}.Release|x64.Build.0 = Release|x64
+		{376807A0-861A-4DD1-A65F-D0EC26E603DB}.Release|x86.ActiveCfg = Release|Win32
+		{376807A0-861A-4DD1-A65F-D0EC26E603DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1922498-51A1-4240-8D79-0284C772F21A}
+	EndGlobalSection
+EndGlobal
